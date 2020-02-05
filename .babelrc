@@ -1,0 +1,6 @@
+{
+    //Entende qual navegador esta sendo utilizado e faz a conversão da melhor 
+    //forma possível
+    "presets" : ["@babel/preset-env"],
+    "plugins" : ["@babel/plugin-proposal-object-rest-spread"] 
+}
